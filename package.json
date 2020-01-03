@@ -1,0 +1,18 @@
+{
+  "name": "infakttimecampintegration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "copy_invoices_to_infakt": "node copy_invoices_to_infakt"
+  },
+  "author": "Damian Tokarczyk",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "for-async": "^1.0.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0"
+  }
+}
